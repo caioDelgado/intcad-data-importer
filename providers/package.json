@@ -1,0 +1,17 @@
+{
+  "name": "providers-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "axios": "^0.18.0",
+    "lodash.groupby": "^4.6.0",
+    "queue": "^4.4.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "importer-intcad-clients",
+  "version": "0.0.1",
+  "description": "A importer of clients xlsx to intcad",
+  "main": "index.js",
+  "scripts": {
+    "import": "node scripts/run.js",
+    "convert-csv-holdings": "node scripts/convert-csv-holdings.js",
+    "convert-csv-clients": "node scripts/convert-csv-clients.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --global after --global afterEach --global before --global beforeEach --global describe --global it"
+  },
+  "author": "Caio Delgado <caiodelgado.csd@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "axios": "^0.18.0",
+    "csvtojson": "^2.0.3",
+    "lodash": "^4.17.10",
+    "queue": "^4.4.2",
+    "sugar-env": "^1.4.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}

@@ -1,0 +1,432 @@
+Código interno|COD_SOC|Descrição Original|Descrição Final|LATERALIDADE|GRUPO|SUBGRUPO|Periodicidade Padrão|Preparo|TUSS|AMB|CBHPM|TIPO|
+|Mantris6001|1,2 dihidroxi-4 - (N-acetilcistenil)-butano/Butadieno|1,2 dihidroxi-4 - (N-acetilcistenil)-butano/Butadieno||LABORATORIAL|URINA||||||UPDATE|
+|mantris3376|17-alfa-hidroxiprogesterona|Alfa-Hidroxiprogesterona||LABORATORIAL|SORO|||40316017|31120318|40316017|UPDATE|
+|mantris3886|17-cetosteróides totais (17-CTS)|17-Cetosteroides Totais (17-cts)||LABORATORIAL|URINA|||40305082|28050126|40305082|UPDATE|
+|mantris422|2,5-hexanodiona, dosagem na urina|2,5 Hexanodiona||LABORATORIAL|URINA|||40311236||40311236|UPDATE|
+|28050991|25 - Hidroxivitamina D3|25 - Hidroxivitamina D3||LABORATORIAL|SANGUE|||40302830||40302830|UPDATE|
+|mantris419|Acetilcolinesterase, em eritrócitos|Acetil-Colinesterase Eritrocitária||LABORATORIAL|SANGUE|||40301044||40301044|UPDATE|
+|Acetona|Acetona|Acetona||LABORATORIAL|URINA|||40301052||40301052|UPDATE|
+|mantris4498|Ácido 2-Tio-Tiazolidina urinário|Ácido 2-Tio-Tiazolidina ||LABORATORIAL|URINA||||||UPDATE|
+|mantris3577|Ácido Delta Aminolevulínico (para chumbo inorgânico)- ALA-U ( Urina)|Ácido Delta Aminolevulínico (para chumbo inorgânico)- ALA-U, urina||LABORATORIAL|URINA|||40313018|28150015|40313018|UPDATE|
+|mantris3578|Ácido delta aminolevulínico desidratase (p/chumbo inorgânico) ALA-D|Ácido Delta Aminolevulínico Desidratase (p/chumbo inorgânico) ALA-D||LABORATORIAL|URINA|||40313026|28150023|40313026|UPDATE|
+|mantris3549|Ácido fenilglioxílico (para estireno)|Ácido Fenilglioxílico (para estireno)||LABORATORIAL|URINA|||40313034|28150031|40313034|UPDATE|
+|migra47|Ácido Fólico|Ácido Fólico||LABORATORIAL|SANGUE|||40301087|28010060|40301087|UPDATE|
+|mantris208|Ácido hipúrico (para tolueno)|Ácido Hipúrico Urinário (para tolueno)||LABORATORIAL|URINA|||40313042|28150040|40313042|UPDATE|
+|28150058|Acido Mandelico|Ácido Mandélico||LABORATORIAL|URINA|||40313050|28150058|40313050|UPDATE|
+|mantris210|Ácido metilhipúrico (para xilenos)|Ácido Metil-Hipúrico Urinário (para xilenos)||LABORATORIAL|URINA|||40313069|28150066|40313069|UPDATE|
+|mantris4144|Ácido pirúvico|Acido Pirúvico||LABORATORIAL|SANGUE|||40301133|28010140|40301133|UPDATE|
+|mantris8538|Ácido Trans Transmuconico|Ácido Trans Transmuconico||LABORATORIAL|URINA||||||UPDATE|
+|mantris8952|Ácido Tricloroacetico|Ácido Tricloroacético||LABORATORIAL|URINA||||||UPDATE|
+|28.01.017-5|Ácido Úrico|Ácido Úrico||LABORATORIAL|SANGUE|||40301150|28010175|40301150|UPDATE|
+|mantris8566|Alfa-1-antitripsina, dosagem no soro|Alfa 1 - Antitripsina||LABORATORIAL|SORO|||40301249|28010221|40301249|UPDATE|
+|mantris8229|Alfa-1-glicoproteína ácida|Alfa-1-Glicoproteina Ácida||LABORATORIAL|SORO|||40301257|28010230|40301257|UPDATE|
+|1626|Alfa-fetoproteína|Dosagem de Alfa-Fetoproteína (IDR/RIE)||LABORATORIAL|SANGUE|||40316068|31120032|40316068|UPDATE|
+|10101010|Alumínio sanguíneo/Sérico|Alumínio, soro||LABORATORIAL|SORO|||40301273|28011490|40301273|UPDATE|
+|mantris8567|Amilase pancreática|Amilase||LABORATORIAL|SANGUE|||40301281|28010256|40301281|UPDATE|
+|migra30|Amonia|Amônia||LABORATORIAL|URINA|||40301320|28010264|40301320|UPDATE|
+|mantris8548|Antibiograma|Antibiograma Automatizado||LABORATORIAL|SANGUE|||40310426||40310426|UPDATE|
+|mantris7743|Anticardiolipina - IgA|Anti-Cardiolipina||LABORATORIAL|SANGUE|||40306135||40306135|UPDATE|
+|mantris8759|Anticorpo anti-receptor de TSH (TRAB)|TRAB (ANTICORPO E ANTI-RECEPTOR DE TSH)||LABORATORIAL|SANGUE|||40316084||40316084|UPDATE|
+|28060075|Anticorpos contra antigeno E da Hepatite B (anti-HBe)|Hepatite B - HBeAC (anti HBE)||LABORATORIAL|SANGUE|||40306976|28060075|40306976|UPDATE|
+|mantris9994|Anticorpos contra o virus de epstein-Barr (IFI)|Anticorpos contra o virus de epstein-Barr (IFI)||LABORATORIAL|SANGUE|||40307565|28061357|40307565|UPDATE|
+|1920|Anticorpos IGG contra antigeno C da Hepatite B (anti-HBc-IGG)|Hepatite B - HBCAC - IgG ||LABORATORIAL|SANGUE|||40306950||40306950|UPDATE|
+|28061195|Anticorpos IGM contra antigeno C da Hepatite B (anti-HBc-IGM)|Hepatite B - HBCAC - IgM ||LABORATORIAL|SANGUE|||40306968|28061195|40306968|UPDATE|
+|migra31|Anti-Estreptolisima O (ASLO), determinacao quantitativa de|Antiestreptolisina O (ASLO)||LABORATORIAL|SANGUE|||40306445|28060180|40306445|UPDATE|
+|mantris3708|Antígeno específico prostático livre (PSA livre)|PSA Livre||LABORATORIAL|SANGUE|||40316130|28062515|40316130|UPDATE|
+|mantris8579|Antiperoxidase tireoideana|Anti-Peroxidase Tireoideana - Anti-TPO||LABORATORIAL|SANGUE|||40306437||40306437|UPDATE|
+|mantris8555|B.A.A.R. (Ziehl ou fluorescência, pesquisa direta e após homogeneização)|BAAR||LABORATORIAL|SANGUE|||40310051||40310051|UPDATE|
+|mantris8769|Bacterioscopia (Gram, Ziehl, Albert etc), por lâmina|Bacterioscopia (Gram, Ziehl, Albert  etc), por lâmina||LABORATORIAL|LÂMINA|||40310060|28100093|40310060|UPDATE|
+|mantris4156|Bilirrubinas (direta, indireta e total)|Bilirrubina Total e Frações||LABORATORIAL|SANGUE|||40301397|28010299|40301397|UPDATE|
+|28061608|CA125|CA125||LABORATORIAL|SANGUE||||||UPDATE|
+|mantris8606|Cálcio (dosagem sanguínea)|Cálcio, sangue||LABORATORIAL|SANGUE|||40301400|28010329|40301400|UPDATE|
+||#N/A|Cálcio, urina||LABORATORIAL|URINA|||40301400|28010329|40301400|INSERT|
+|mantris8607|Cálculos urinários - análise|Cálculos Urinários, exame qualitativo de ||LABORATORIAL|URINA|||40311040|28010329|40311040|UPDATE|
+|mantris3527|Carboxihemoglobina (para monóxido de carbono diclorometano)|Carboxihemoglobina (para monóxido de carbono  diclorometano)||LABORATORIAL|SANGUE|||40313093|28150090|40313093|UPDATE|
+|mantris8613|Células, pesquisa de células neoplásicas (citologia oncótica)|Citologia Oncótico Líquido||LABORATORIAL|LÍQUOR|||40309045||40309045|UPDATE|
+|14082017|Cetona|Cetona ||LABORATORIAL|SANGUE||||||UPDATE|
+|mantris4467|Chagas IgG (Teste de Machado Guerreiro)|Sorologia p/ Doença de Chagas - (Reação Machado Guerreiro)||LABORATORIAL|SANGUE|||40306615||40306615|UPDATE|
+|mantris3530|Chumbo, Sangue|Chumbo, sangue||LABORATORIAL|SANGUE|||40313107||40313107|UPDATE|
+|mantris415|Chumbo, urina|Chumbo urina||LABORATORIAL|URINA|||40313107|28150120|40313107|UPDATE|
+|mantris8910|Citologia Oncótica (Papanicolau) Colpocitologia Oncótica|Citologia Oncótica (Papanicolau) Colpocitologia Oncótica||LABORATORIAL|SECREÇÃO|||40309045||40309045|UPDATE|
+|21112017|CITOLÓGICO|Citológico||LABORATORIAL|SECREÇÃO||||||UPDATE|
+|migra32|Citomegalovirus IgG |Citomegalovírus IgG||LABORATORIAL|SANGUE|||40306666||40306666|UPDATE|
+|40306674|Citomegalovirus IgM|Citomegalovirus IgM||LABORATORIAL|SANGUE|||40306674||40306674|UPDATE|
+|mantris4165|Clearance de ácido úrico|Clearance de Ácido Úrico, sangue||LABORATORIAL|SORO|||40301494|28010400|40301494|UPDATE|
+||#N/A|Clearance de Ácido Úrico, urina||LABORATORIAL|URINA|||40301494|28010400|40301494|INSERT|
+|mantris4167|Clearance de creatinina|Clearance de Creatinina, sangue||LABORATORIAL|SANGUE|||40301508|28010426|40301508|UPDATE|
+||#N/A|Clearance de Creatinina, urina||LABORATORIAL|URINA|||40301508|28010426|40301508|INSERT|
+|mantris4170|Clearance de uréia|Clearance de Uréia, sangue||LABORATORIAL|SANGUE|||40301524|28010450|40301524|UPDATE|
+||#N/A|Clearance de Uréia, urina||LABORATORIAL|URINA|||40301524|28010450|40301524|INSERT|
+|mantris8616|Cloro - pesquisa e/ou dosagem|Cloro||LABORATORIAL|SANGUE|||40301559|28010469|40301559|UPDATE|
+|1000000127|CLOROCATECOL|Clorocatecol||LABORATORIAL|URINA||||||UPDATE|
+|mantris8617|Coagulograma completo|Coagulograma completo||LABORATORIAL|SANGUE|||40304922||40304922|UPDATE|
+|mantris8618|Cobre - pesquisa e/ou dosagem|Cobre, soro||LABORATORIAL|SORO|||40301567|28150287|40301567|UPDATE|
+|371|Colesterol Total e Frações|Colesterol Total e Frações||LABORATORIAL|SANGUE||||||UPDATE|EXAME DESMEMBRADO
+|mantris4058|Colesterol (LDL)|Colesterol - LDL||LABORATORIAL|SANGUE|||40301591||40301591|UPDATE|
+|mantris4059|Colesterol (VLDL)|Colesterol - VLDL||LABORATORIAL|SANGUE|||40302695||40302695|UPDATE|
+|28010493|Colesterol HDL|Colesterol - HDL||LABORATORIAL|SANGUE|||40301583||40301583|UPDATE|
+|37|Colesterol Total|Colesterol Total||LABORATORIAL|SANGUE|||40301605|28010507|40301605|UPDATE|
+|13|Colinesterase Plasmática|Colinesterase||LABORATORIAL|SORO|||40313115|28150104|40313115|UPDATE|
+|mantris3654|Coprocultura (salmonella, shigella e escherichia coli)|Coprocultura||LABORATORIAL|FEZES|||40310183|28100239|40310183|UPDATE|
+|mantris8624|Coprológico funcional|Coprológico Funcional||LABORATORIAL|FEZES|||40303039|28030010|40303039|UPDATE|
+|mantris8625|Coproporfirinas (para chumbo inorgânico)|Coproporfirinas ||LABORATORIAL|FEZES|||40313123|28150112|40313123|UPDATE|
+|28050142|Cortisol|Cortisol||LABORATORIAL|SANGUE|||40316190|31120083|40316190|UPDATE|
+|28010540|Creatinina|Creatinina||LABORATORIAL|SANGUE|||40301630|28010540|40301630|UPDATE|
+|17112017|CPK|CPK||LABORATORIAL|SANGUE||||||UPDATE|Inativar - CPK = Creatino fosfoquinase total (CK)
+|mantris8629|Creatino fosfoquinase total (CK)|Creatino Fosfoquinase Total (CK)||LABORATORIAL|SANGUE|||40301648||40301648|UPDATE|
+|migra74|Cromo sanguíneo|Cromo, soro||LABORATORIAL|SORO|||40313310|28150139|40313310|UPDATE|
+|mantris416|Cromo, urina|Cromo, urina||LABORATORIAL|URINA|||40313310|28150139|40313310|UPDATE|
+|mantris8917|Cultura bacteriana de secreção nasal|Swab Nasal||LABORATORIAL|SECREÇÃO|||40310124|28100581|40310124|UPDATE|
+|mantris8553|Cultura bacteriana de secreção orofaríngea|Cultura Bacteriana (em diversos materiais biológicos)||LABORATORIAL|SECREÇÃO|||40310124|28100581|40310124|UPDATE|
+|mantris8905|cultura da região interdigital|Cultura da região interdigital||LABORATORIAL|SECREÇÃO|||40310124|28100581|40310124|UPDATE|
+|mantris8914|Cultura para mycobacterium (Cultura de BK)|Cultura de Bk||LABORATORIAL|SECREÇÃO|||40310159|28100689|40310159|UPDATE|
+|mantris8763|Cultura Urina com contagem de colônias|Cultura Urina com contagem de colônias||LABORATORIAL|URINA|||40310213|28100549|40310213|UPDATE|Duplicidade exame 40310418
+|mantris8991|Curva glicêmica (4 dosagens) via oral ou endovenosa|Curva Glicêmica Clássica (4 Dosagens), Oral ou Endovenossa||LABORATORIAL|SANGUE|||40301680||40301680|UPDATE|
+|mantris4116|Desidrogenase láctica|DHL/Desidrogenase Lática||LABORATORIAL|SANGUE|||40301729|28010655|40301729|UPDATE|
+|mantris8981|Dosagem Urinária de Álcool Etílico|Dosagem Urinária de Álcool Etílico||LABORATORIAL|URINA||||||UPDATE|
+|mantris8637|Eletroferese de proteínas (sangue)|Eletroferese de Proteínas||LABORATORIAL|SANGUE|||40301761|28010736|40301761|UPDATE|
+|21112016|ELETROFORESE DE HEMOGLOBINA|Hemoglobina (eletroforese ou HPLC)||LABORATORIAL|SANGUE|||40304353||40304353|UPDATE|
+|1805|Eletroforese de Lipoproteinas|Eletroforese de Lipoproteinas||LABORATORIAL|SORO|||40301788|28010728|40301788|UPDATE|
+|mantris8638|Eletroforese de proteínas urinárias, com concentração|Eletroforese de Proteinas Urinárias com Concentracao||LABORATORIAL|URINA|||40311309|28130170|40311309|UPDATE|
+|mantris8644|Espermograma|Espermograma||LABORATORIAL|SECREÇÃO|||40309312|28020022|40309312|UPDATE|
+|migra29|Estradiol|Estradiol (RIE)||LABORATORIAL|SANGUE|||40316246|31120156|40316246|UPDATE|
+|mantris8778|Estriol|Estriol (RIE)||LABORATORIAL|SANGUE|||40316254||40316254|UPDATE|
+|mantris8649|Estrogênios totais (fenolesteróides)|Estrogênios Totais (fenolesteróides)||LABORATORIAL|SANGUE|||40305597|28050274|40305597|UPDATE|
+|40316262|Estrona - pesquisa e/ou dosagem|Estrona||LABORATORIAL|SANGUE|||40316262|28050304|40316262|UPDATE|
+|28150309|Etanol - Urina|Etanol||LABORATORIAL|URINA|||40313140|28150309|40313140|UPDATE|
+|mantris3644|Exame Microbiologia a fresco|A Fresco, Exame||LABORATORIAL|SECREÇÃO|||40310019|28100018|40310019|UPDATE|
+|40306852|FAN (Fator antinúcleo - pesquisa e/ou dosagem)|Fator Antinúcleo, (FAN)||LABORATORIAL|SANGUE|||40306852|28060148|40306852|UPDATE|
+|mantris8657|Fator reumatóide, quantitativo|Fator Reumatóide, quantitativo||LABORATORIAL|SANGUE|||40306860|28060504|40306860|UPDATE|
+|mantris3532|Fenol, urina|Fenol (para benzeno, fenol)||LABORATORIAL|URINA|||40313158|28150147|40313158|UPDATE|
+|28.01.079-5|Ferritina|Ferritina||LABORATORIAL|SANGUE|||40316270|28010795|40316270|UPDATE|
+|28.01.080-9|Ferro Sérico|Ferro Sérico||LABORATORIAL|SANGUE|||40301842|28010809|40301842|UPDATE|
+|mantris420|Flúor (para fluoretos)|Fluoreto Urinário||LABORATORIAL|URINA|||40313166|28150155|40313166|UPDATE|
+|mantris3366|Folículo estimulante, hormônio (FSH)|FSH/Hormônio Folículo Estimulante||LABORATORIAL|SANGUE|||40316289|31120199|40316289|UPDATE|
+|mantris8662|Fosfatase ácida total|Fosfatase Ácida Total||LABORATORIAL|SANGUE|||40301877|28010825|40301877|UPDATE|
+|28.01.085-0|Fosfatase Alcalina|Fosfatase Alcalina||LABORATORIAL|SANGUE|||40301885|28010850|40301885|UPDATE|
+|mantris8663|Fosfolipídios|Fosfolipídios||LABORATORIAL|SANGUE|||40301923|28010884|40301923|UPDATE|
+|28010892|Fósforo|Fósforo||LABORATORIAL|SANGUE|||40301931|28010892|40301931|UPDATE|
+|4030195|FRUTOSAMINA|Frutosaminas||LABORATORIAL|SANGUE|||40301958|28011554|40301958|UPDATE|
+|mantris359|Gama-glutamil transferase (Gama GT)|Gama-Glutamil Transferase (ggt)||LABORATORIAL|SANGUE|||40301990|28010957|40301990|UPDATE|
+|mantris8669|Gasometria (pH, pCO2, SA, O2, excesso base)|Gasometria||LABORATORIAL|SANGUE|||40302016|28010965|40302016|UPDATE|
+|35|Glicose|Glicemia de Jejum||LABORATORIAL|SANGUE|||40302040|28010973|40302040|UPDATE|
+|mantris8670|Glicose-6-fosfato deidrogenase (G6FD)|Glicose 6 - Fosfato Desidrogenase||LABORATORIAL|SANGUE|||40302059|28010981|40302059|UPDATE|
+|mantris8671|Gonadotrófico coriônico, hormônio (HCG)|Imunoglobulina IgE||LABORATORIAL|SANGUE|||40316327|31120229|40316327|UPDATE|
+|migra46|Hematócrito, determinação do|Hematócrito, determinação do||LABORATORIAL|SANGUE|||40304337|28040414|40304337|UPDATE|
+|mantris8676|Hemoglobina glicada (A1 total)|Hemoglobina Glicosilada||LABORATORIAL|SANGUE|||40302075||40302075|UPDATE|
+|mantris8677|Hemoglobina plasmática livre|Hemoglobina Plasmática Livre||LABORATORIAL|SANGUE|||40302083|28011031|40302083|UPDATE|
+|mantris8678|Hemoglobina, dosagem|Hemoglobina, dosagem||LABORATORIAL|SANGUE|||40304345|28040422|40304345|UPDATE|
+|28040481|Hemograma Completo|Hemograma Completo||LABORATORIAL|SANGUE|||40304361|28040481|40304361|UPDATE|
+|mantris8679|Hemossedimentação, (VHS)|Hemossedimentacao, Determinacao da Velocidade de VHS,VSG||LABORATORIAL|SANGUE|||40304370|28040490|40304370|UPDATE|
+|28060105|Hepatite A (Anti-Corpo IGG)|Hepatite A - HAV - IgG||LABORATORIAL|SANGUE|||40306933|28060105|40306933|UPDATE|
+|28060113|Hepatite A (Anti-Corpo IGM)|Hepatite A - HAV - IgM||LABORATORIAL|SANGUE|||40306941|28060113|40306941|UPDATE|
+|28060083|Hepatite B – anti HBS (anticorpos contra o antígeno de superfície do HBV)|Hepatite B –  anti HBS||LABORATORIAL|SANGUE|||40306992|28060083|40306992|UPDATE|
+|mantris3381|Hepatite C - anti-HCV|Anti-HBc Total||LABORATORIAL|SANGUE|||40307026|28061659|40307026|UPDATE|
+|mantris8998|Heptacloro|Heptacloro||LABORATORIAL|URINA||||||UPDATE|
+|1000000124|HIDROXIPIRENO URINARIO|Hidroxipireno - Urinário||LABORATORIAL|URINA||||||UPDATE|
+|mantris8577|HIV - antígeno P24|HIV - antígeno P24||LABORATORIAL|SANGUE|||40307166|28061535|40307166|UPDATE|
+|mantris8569|HIV1 ou HIV2, pesquisa de anticorpos|Anticorpo HTLV-III (anti-HIV) (EIE ou IFI)||LABORATORIAL|SANGUE|||40307182|28061691|40307182|UPDATE|
+|mantris8680|Homocisteína|Homocisteína||LABORATORIAL|SANGUE|||40302113||40302113|UPDATE|
+|40316424|Hormônio de paratireoide  (PTH)|Paratormônio - PTH ou Fração||LABORATORIAL|SANGUE|||40305465|28050754|40305465|UPDATE|
+|28.05.038-0|Hormônio Luteinizante (LH)|LH/Hormônio Luteinizante||LABORATORIAL|SANGUE|||40316335||40316335|UPDATE|
+|mantris8683|IgE, total|IgE, (total e especifica por alergeno e por dosagem) (RIE)||LABORATORIAL|SANGUE|||40307271||40307271|UPDATE|
+|mantris8789|Insulina (dosagem sanguínea)|Insulina||LABORATORIAL|SANGUE|||40316360|31120253|40316360|UPDATE|
+|mantris8986|Leucócitos, contagem|Leucócitos, Contagem Global||LABORATORIAL|SANGUE|||40304418|28040520|40304418|UPDATE|
+|mantris8694|Lipídios totais|Lipídios Totais||LABORATORIAL|SANGUE|||40302750|28011104|40302750|UPDATE|
+|28.01.112-0|Magnésio|Magnésio||LABORATORIAL|SANGUE|||40302237|28011120|40302237|UPDATE|
+|migra77|Mielograma|Mielograma||EXAME|EXAME|||40304892|||UPDATE|Inativar: procedimento cirurgico
+|28150163|Mercurio dosagem sangue|Mercúrio, sangue||LABORATORIAL|SANGUE|||40313190|28150163|40313190|UPDATE|
+|mantris8701|Meta-hemoglobina (para anilina nitrobenzeno)|Metahemoglobina (para anilina, nitrobenzeno)||LABORATORIAL|SANGUE|||40304434|28040546|40304434|UPDATE|
+|mantris8580|Metais urinários - Arsênico|Arsênico ||LABORATORIAL|SANGUE|||40313190||40313190|UPDATE|
+|mantris3547|Metais urinários - Cádmio|Cádmio||LABORATORIAL|SANGUE|||40313190|28150295|40313190|UPDATE|
+|mantris8957|Metais urinários - Cobre|Cobre, urina||LABORATORIAL|URINA|||40301567|28150287|40301567|UPDATE|
+|mantris9980|Metais urinários - Estanho|Estanho||LABORATORIAL|URINA||||||UPDATE|
+|mantris4465|Metais urinários - Manganês|Manganês||LABORATORIAL|URINA|||40313190|28150279|40313190|UPDATE|
+|mantris3534|Metais urinários - Mercúrio|Mercúrio, urina||LABORATORIAL|URINA|||40313190|28150163|40313190|UPDATE|
+|110|Metais urinários - Níquel|Níquel||LABORATORIAL|URINA|||40313190|28150198|40313190|UPDATE|
+|1835|Alumínio|Alumínio, sangue||LABORATORIAL|SANGUE|||40301273|28011490|40301273|UPDATE|
+|mantris221|Metanol, urina|Metanol||LABORATORIAL|URINA|||40313204|28150180|40313204|UPDATE|
+|mantris234|Metil Etil Cetona|Metil-Etil-Cetona Urinário||LABORATORIAL|URINA|||40313344||40313344|UPDATE|
+|mantris8851|Metilisobultilcetona|Metil Isobultil Cetona||LABORATORIAL|URINA||||||UPDATE|
+|mantris8612|Muco-nasal, pesquisa de eosinófilos e mastócitos|Citograma Nasal||LABORATORIAL|SECREÇÃO|||40312054||40312054|UPDATE|
+|migra36|Mucoproteínas|Mucoproteínas||LABORATORIAL|SANGUE|||40302660|28011139|40302660|UPDATE|
+|12092017|Nitrogenio Ureico Sanguineo|Nitrogênio Uréico ||LABORATORIAL|SANGUE||||||UPDATE|
+|mantris417|N-Metilformamida urinária|N-Metilformamida||LABORATORIAL|URINA||||||UPDATE|
+|mantris8560|P-aminofenol (para anilina)|P-aminofenol||LABORATORIAL|URINA|||40313212|28150201|40313212|UPDATE|
+|migra78|Paraminofenol Urinário|Paraminofenol||LABORATORIAL|URINA||||||UPDATE|
+|23|Pentaclorofenol - Urina|Pentaclorofenol||LABORATORIAL|URINA||||||UPDATE|
+|mantris4090|Perfil lipídico/lipidograma|Lipidograma Completo Inclui Lipidios Totais,col. Tri./eletrof.de Popro||LABORATORIAL|SANGUE|||40302750|28011104|40302750|UPDATE|
+|40316238|Perfil Toxicologico (Cocaina,Maconha,Opiaceos,Anfetaminas,Ecstasy,Fenicicli)|Perfil Toxicológico (Coca,Maconha,Opiaceos,Anfet,Ecstasy,Fenicicli), urina||LABORATORIAL|URINA||||||UPDATE|
+||#N/A|Perfil Toxicológico (Coca,Maconha,Opiaceos,Anfet,Ecstasy,Fenicicli),querat||LABORATORIAL|QUERATINA||||||INSERT|
+|mantris8979|Pesquisa Urinária de Barbitúricos|Pesquisa Urinária de Barbitúricos||LABORATORIAL|URINA||||||UPDATE|Inativar = Perfil toxicologico
+|mantris8975|Pesquisa Urinária de Cocaína/Benzoilecgonina|Pesquisa Urinária de Cocaína/Benzoilecgonina||LABORATORIAL|URINA||||||UPDATE|Inativar = Perfil toxicologico
+|28.04.056-2|Plaquetas (contagem)|Plaquetas (contagem)||LABORATORIAL|SANGUE||||||UPDATE|Inativar = Perfil toxicologico
+|mantris9049|Triagem de Maconha na Urina|Triagem de Maconha na Urina||LABORATORIAL|URINA||||||UPDATE|Inativar = Perfil toxicologico
+|10111011|Dosagem de Anfetaminas|Anfetaminas, urina||LABORATORIAL|URINA|||40301338||40301338|UPDATE|
+|10003|Perfil Toxicologico Anfetaminas|Anfetaminas, queratina||LABORATORIAL|QUERATINA|||40301338||40301338|UPDATE|
+|40301745|Perfil toxicologico Benzodiazepinico|Benzodiazepínicos e similares||LABORATORIAL|URINA|||40301745||40301745|UPDATE|
+|40301575|Dosagem Cocaina|Cocaína, sangue||LABORATORIAL|SANGUE|||40301575||40301575|UPDATE|
+|10000|Perfil Toxicologico Cocaína|Cocaína, queratina||LABORATORIAL|URINA|||40301575||40301575|UPDATE|
+||#N/A|Cocaína, urina||LABORATORIAL|QUERATINA|||40301575||40301575|INSERT|
+|10004|Perfil Toxicologico Ecstasy|Ecstasy, queratina||LABORATORIAL|URINA||||||UPDATE|
+||#N/A|Ecstasy, urina||LABORATORIAL|QUERATINA||||||INSERT|
+|100005|Perfil Toxicologico Fenicicli|Fenicicli, queratina||LABORATORIAL|URINA||||||UPDATE|
+||#N/A|Fenicicli, urina||LABORATORIAL|QUERATINA||||||INSERT|
+|100001|Perfil Toxicologico Maconha|Maconha, queratina||LABORATORIAL|URINA||||||UPDATE|
+||#N/A|Maconha, urina||LABORATORIAL|QUERATINA||||||INSERT|
+|10002|Perfil Toxicologico Opiaceos|Opiaceos, queratina||LABORATORIAL|URINA||||||UPDATE|
+||#N/A|Opiaceos, urina||LABORATORIAL|QUERATINA||||||INSERT|
+|28040600|PESQUISA DE HEMATOZOÁRIOS EM GOTA ESPESSA|Pesq Médica - Hematozoários em gota espessa||LABORATORIAL|SANGUE||||||UPDATE|
+|mantris8558|Plasmódio, pesquisa|Pesquisa de Plasmódio||LABORATORIAL|SANGUE|||40304477|28040600|40304477|UPDATE|
+|28011210|Potássio|Potássio||LABORATORIAL|SANGUE|||40302318|28011210|40302318|UPDATE|
+|mantris4468|PPD (tuberculina), IDeR|PPD||LABORATORIAL|TESTE CUTÂNEO|||40307638||40307638|UPDATE|
+|mantris9011|Progesterona|Progesterona Plasmática (RIE)||LABORATORIAL|SANGUE|||40316408|31120300|40316408|UPDATE|
+|28.05.043-6|Prolactina|Prolactina (RIE)||LABORATORIAL|SANGUE|||40316416|31120326|40316416|UPDATE|
+|mantris8943|Proteína C reativa, qualitativa|Proteina C Reativa, Determinacao Qualitativa||LABORATORIAL|SANGUE|||40308383||40308383|UPDATE|
+|mantris8720|Proteína C reativa, quantitativa|Proteina C reativa, Determinacao Quantitativa||LABORATORIAL|SANGUE|||40308391||40308391|UPDATE|
+|mantris8721|Proteínas totais albumina e globulina|Proteínas Totais e Frações - (PTF)||LABORATORIAL|SORO|||40302385||40302385|UPDATE|
+|mantris4044|Protoparasitológico das fezes (PPF)|Parasitológico de Fezes (PPF)||LABORATORIAL|FEZES|||40303110|28030141|40303110|UPDATE|
+|mantris8766|Protoporfirina eritrocitária livre - zinco|ZPP (Zinco Protoporfirina Eritrocitária)||LABORATORIAL|SANGUE|||40304523|28040910|40304523|UPDATE|
+|mantris8722|Protoporfirinas livres (para chumbo inorgânico)|Protoporfirinas Livres (para chumbo inorgânico)||LABORATORIAL|SANGUE|||40313239|28150228|40313239|UPDATE|
+|mantris8723|Protoporfirinas Zn (para chumbo inorgânico)|Protoporfirinas ZN (para chumbo inorgânico)||LABORATORIAL|SANGUE|||40313247|28150236|40313247|UPDATE|
+|mantris8729|Provas de função tireoideana (T3, T4, índices e TSH)|Provas de Função Tireoideana (T3,T4, indices e TSH)||LABORATORIAL|SANGUE|||40305627|28050762|40305627|UPDATE|
+|mantris9991|Prova de Função Hepática|Prova de Função Hepática||LABORATORIAL|SANGUE||||||UPDATE|Inativar: exames na tabela em separado
+|mantris4471|Reticulócitos, contagem|Reticulócitos, contagem||LABORATORIAL|SANGUE|||40304558|28040660|40304558|UPDATE|
+|mantris8734|Sangue oculto, pesquisa (fezes)|Sangue Oculto, pesquisa||LABORATORIAL|FEZES|||40303136|28030176|40303136|UPDATE|
+|40316300|SHBG ( globulina ligada a hormônios sexuais)|"Globulina de ligação de hormônios sexuais (SHBG)"||LABORATORIAL|SANGUE|||40316300||40316300|UPDATE|
+|mantris8665|Sífilis - FTA-ABS-IgG|Sífilis - FTA-ABS-IgG||LABORATORIAL|SANGUE|||40307735|28060954|40307735|UPDATE|
+|mantris9993|Sifilis - FTA-ABS-IgM|Sífilis - FTA-ABS-IgM||LABORATORIAL|SANGUE|||40307743||40307743|UPDATE|
+|mantris8810|Sífilis - TPHA|Sífilis - TPHA||LABORATORIAL|SANGUE|||40307751||40307751|UPDATE|
+|mantris3757|Sífilis - VDRL|Sífilis - VDRL||LABORATORIAL|SANGUE|||40307760|28061004|40307760|UPDATE|
+|28.01.127-9|Sódio|Sódio||LABORATORIAL|SANGUE|||40302423|28011279|40302423|UPDATE|
+|migra57|Sorologia para Caxumba|Sorologia para Caxumba||LABORATORIAL|SORO||||||UPDATE|EXAME DESMEMBRADO
+||#N/A|Caxumba, IgG||LABORATORIAL|SORO|||40306593|28060296|40306593|INSERT|
+||#N/A|Caxumba, IgM||LABORATORIAL|SORO|||40306607||40306607|INSERT|
+|migra58|Sorologia para esquistossomose|Sorologia para esquistossomose||LABORATORIAL|SORO||||||UPDATE|EXAME DESMEMBRADO
+||#N/A|Schistosomose, IgG||LABORATORIAL|SORO|||40307719|28060946|40307719|INSERT|
+||#N/A|Schistosomose, IgM||LABORATORIAL|SORO|||40307727||40307727|INSERT|
+|migra59|Sorologia para Hepatite A|Hepatite A - HAV IgG||LABORATORIAL|SORO|||40306933|28060105|40306933|UPDATE|Duplicidade Exame 28060105
+|migra17|Sorologia para Rubéola ( Ig G e Ig M)|Sorologia para Rubéola ( Ig G e Ig M)||LABORATORIAL|SORO||||||UPDATE|EXAME DESMEMBRADO
+||#N/A|Rubéola, IgG||LABORATORIAL|SORO|||40307697|28060911|40307697|INSERT|
+||#N/A|Rubéola, IgM||LABORATORIAL|SORO|||40307700|28060903|40307700|INSERT|
+|migra64|Sorologia para Toxoplasmose (IgG e IgM)|Sorologia para Toxoplasmose (IgG e IgM)||LABORATORIAL|SORO||||||UPDATE|EXAME DESMEMBRADO
+|mantris8757|Toxoplasmose IgG (sorologia)|Toxoplasmose IgG||LABORATORIAL|SANGUE|||40307824|28060962|40307824|UPDATE|
+||#N/A|Toxoplasmose, IgM||LABORATORIAL|SANGUE|||40307832|28060962|40307832|INSERT|
+|mantris8772|Sulfato de dehidroepiandrosterona (S-DHEA)|Dehidroepiandrostrona, sulfato de (S-Dhea)||LABORATORIAL|SANGUE|||40316459|31120342|40316459|UPDATE|
+|mantris8544|Sulfo-hemoglobina, determinação da|Sulfahemoglobina||LABORATORIAL|SANGUE|||40304876|28040686|40304876|UPDATE|
+|mantris1000|Swab nas fezes|Swab Anal||LABORATORIAL|SECREÇÃO|||40303020|28030133|40303020|UPDATE|
+|28062017|T4L - TIROXINA LIVRE|Tiroxina (T4)||LABORATORIAL|SANGUE|||40316548|28050720|40316548|UPDATE|
+|mantris8745|Tempo de coagulação|Tempo de Coagulação (Lee-White)||LABORATORIAL|SANGUE|||40304582||40304582|UPDATE|
+|mantris8542|Tempo de protrombina|Tempo Protrombina||LABORATORIAL|SANGUE|||40304590|28040732|40304590|UPDATE|
+|mantris8806|Tempo de sangramento (Duke)|Tempo de Sangramento (DUKE)||LABORATORIAL|SANGUE|||40304914||40304914|UPDATE|
+|mantris8923|Tempo de tromboplastina parcial ativada|Tempo de Tromboplastina Parcial Ativado - TTPA||LABORATORIAL|SANGUE|||40304639|28040791|40304639|UPDATE|
+|migra81|Teste de estímulo da tiróide com TSH|Prova do TRH-TSH||LABORATORIAL|SANGUE|||40305570|28050495|40305570|UPDATE|
+|1004|Teste para Brucelose|Brucelose||LABORATORIAL|SANGUE|||40306526|28060270|40306526|UPDATE|
+|28.05.077-0|Testosterona livre|Testosterona Livre||LABORATORIAL|SANGUE|||40316505|28050770|40316505|UPDATE|
+|28.05.069-0|Testosterona total plasmatica|Testosterona Total||LABORATORIAL|SANGUE|||40316513|28050690|40316513|UPDATE|
+|mantris8126|TGO/Transaminase Oxalacética|TGO/Transaminase Oxalacética||LABORATORIAL|SANGUE|||40312151|28140079|40312151|UPDATE|
+|mantris8127|TGP/Transaminase Pirúvica|TGP/Transaminase Pirúvica||LABORATORIAL|SANGUE|||40312151|28140079|40312151|UPDATE|
+|mantris3542|Tiocianato (para cianetos nitrilas alifáticas)|Tiocianato (para cianetos  nitrilas alifáticas)||LABORATORIAL|SORO|||40313271|28150244|40313271|UPDATE|
+|mantris3864|Tireoestimulante, hormônio (TSH)|TSH/Hormônio Tireoestimulante||LABORATORIAL|SANGUE|||40316521|31120377|40316521|UPDATE|
+|mantris3383|Tiroxina (T4)|T4 livre||LABORATORIAL|SANGUE|||40316548|28050720|40316548|UPDATE|
+|28.01.138-4|Transferrina|Transferina||LABORATORIAL|SANGUE|||40302520|28011384|40302520|UPDATE|
+|mantris3543|Triclorocompostos totais (para tetra/tricloroetileno, tricloroetano)|Triclorocompostos Totais Urinários||LABORATORIAL|URINA|||40313280|28150252|40313280|UPDATE|
+|28011392|Triglicérides|Triglicerídeos||LABORATORIAL|SANGUE|||40302547|28011392|40302547|UPDATE|
+|mantris3384|Triiodotironina (T3)|T3||LABORATORIAL|SANGUE|||40316556|28050738|40316556|UPDATE|
+|28.01.141-4|Uréia|Uréia||LABORATORIAL|SANGUE|||40302580|28011414|40302580|UPDATE|
+|28.13.036-7|Urina I|Urina Tipo I (Rotina de urina)||LABORATORIAL|URINA|||40311210|28130367|40311210|UPDATE|
+|40310418|UROCULTURA E CONTAGEM DE COLONIAS|Urocultura e Contagem de Colônias||LABORATORIAL|URINA|||40310213|28100549|40310213|UPDATE|
+|mantris8812|Waaler-Rose (fator reumatóide)|Waaler-Rose (fator reumatoide) teste||LABORATORIAL|SANGUE|||40307867|28061012|40307867|UPDATE|
+|mantris8570|Western Blot (anticorpos anti-HIV)|Anticorpos anti-HTLV-III (HIV), Westem Blot||LABORATORIAL|SANGUE|||40307875||40307875|UPDATE|
+|mantris3544|Zinco|Zinco||LABORATORIAL|SANGUE|||40313328|28150260|40313328|UPDATE|
+|mantris9020|Rx Coluna cervical|Rx Coluna cervical||IMAGEM|RX|||40802019|32020015|40802019|UPDATE|EXAME DESMEMBRADO
+|||Rx Coluna cervical, AP||IMAGEM|RX|||40802019|32020015|40802019|INSERT|
+|||Rx Coluna cervical, Lateral||IMAGEM|RX|||40802019|32020015|40802019|INSERT|
+|||Rx Coluna cervical, T.O. ou Flexão||IMAGEM|RX|||40802019|32020015|40802019|INSERT|
+|mantris3305|Rx Coluna lombo-sacra|Rx Coluna lombo-sacra||IMAGEM|RX|||40802051|32020066|40802051|UPDATE|EXAME DESMEMBRADO
+|||Rx Coluna lombo-sacra, AP||IMAGEM|RX|||40802051|32020066|40802051|INSERT|
+|||Rx Coluna lombo-sacra, Perfil||IMAGEM|RX|||40802051|32020066|40802051|INSERT|
+|mantris3270|Rx de Joelho (AP, P e Axial)|Rx de Joelho (AP, P e Axial)|Sim|IMAGEM|RX|||40804054|32040075|40804054|UPDATE|EXAME DESMEMBRADO
+|||RX Joelho, AP|Sim|IMAGEM|RX|||40804054|32040075|40804054|INSERT|
+|||RX Joelho, Perfil|Sim|IMAGEM|RX|||40804054|32040075|40804054|INSERT|
+|||RX Joelho, Axial|Sim|IMAGEM|RX|||40804054|32040075|40804054|INSERT|
+|mantris8965|RX de tórax padrão OIT|RX Tórax padrão OIT, AP||IMAGEM|RX||||||UPDATE|
+|41001079|Rx Tórax PA|Rx Tórax, PA||IMAGEM|RX|||40805018|32050038|40805018|UPDATE|
+|mantris3281|Rx Tórax PA/ Perfil|Rx Tórax PA/ Perfil||IMAGEM|RX|||40805026|32050054|40805018|UPDATE|EXAME DESMEMBRADO
+||Rx Tórax, Perfil|Rx Tórax, Perfil||IMAGEM|RX|||40805018|32050038|40805018|INSERT|
+|50.01.001-8|Acuidade Visual|Acuidade Visual||EXAME|EXAME|||41301307||41301307|UPDATE|
+|mantris8550|Analise Cinesio Funcional|Análise Cinesio Funcional||EXAME|EXAME||||||UPDATE|
+|21010021|Anatomo Patologico|Anatomia Patológica||AMOSTRA|AMOSTRA|||40601080||40601080|UPDATE|
+|876|Angeografia Carotida unilateral|Angeografia Carotida Unilateral||CONSULTA|CONSULTA||||||UPDATE|
+|mantris8585|Audiometria (tipo Von Bekesy)|Audiometria (tipo, Von Bekesy)||EXAME|EXAME|||40103064||40103064|UPDATE|
+|mantris8586|Audiometria de tronco cerebral (PEA) BERA|Audiometria Cortical (Era)||EXAME|EXAME|||40103048||40103048|UPDATE|
+|51010020|Audiometria Tonal|Audiometria Tonal||EXAME|EXAME|||40103072|51010020|40103072|UPDATE|
+|51010046|Audiometria Vocal|Audiometria Vocal||EXAME|EXAME|||40103099|51010046|40103099|UPDATE|
+|mantris8589|Audiometria vocal com mensagem competitiva (SSI, SSW)|Audiometria Vocal com mensagem Competitiva (SSI,SSW)||EXAME|EXAME|||40103110||40103110|UPDATE|
+|80|Avaliação Cardiológica|Avaliação Médica - Cardiologica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris4594|Avaliação Clinica|Avaliação Médica - Clinica Geral||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris8932|0|Avaliação Clínica Escala de Sonolência EPWORTH||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|1825|Avaliação de Capacidade Funcional/ Teste de Aptidão Fisica| Teste de Aptidão Física||CONSULTA|CONSULTA||||||UPDATE|
+|mantris8938|AVALIACAO DE ESCUTA PARA VOZ COLOQUIAL|Avaliação Vocal||CONSULTA|CONSULTA||||||UPDATE|
+|mantris8592|Avaliação de Urologia|Avaliação Médica - Urológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris8596|Avaliação Fisioterapica|Avaliação Fisioterápica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris6000|Avaliação gastroenterologica (avaliação clínica )|Avaliação Médica - Gastroenterologica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris8597|Avaliação Ginecologica|Avaliação Médica - Ginecológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|migra48|Avaliação Hematologica|Avaliação Médica - Hematológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|9058|Avaliação Médica com emissão da Carteira Sanitária|Avaliação Médica com emissão da Carteira Sanitária||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|1002|Avaliação Neurologica|Avaliação Médica - Neurológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|avnutri|Avaliação Nutricional|Avaliação Nutricional||CONSULTA|CONSULTA|||20101074||20101074|UPDATE|
+|mantris8599|Avaliação Odontológica|Avaliação Odontológica||CONSULTA|CONSULTA||||||UPDATE|
+|32323232|Avaliação Oftalmológica|Avaliação Médica - Oftalmológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris8600|Avaliação Ortopédica|Avaliação Médica - Ortopédica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris8767|Avaliação Otorrinolaringlogica|Avaliação Médica - Otorrinolaringológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris8768|Avaliação Pneumologica|Avaliação Médica - Pneumológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris433|Avaliação Psicológica/Psicossocial|Avaliação Psicológica/Psicossocial||CONSULTA|CONSULTA||||||UPDATE|EXAME DESMEMBRADO
+|mantris9992|Avaliação psicossocial|Avaliação Psicossocial||CONSULTA|CONSULTA||||||UPDATE|
+|mantris9990|Avaliação psicológica|Avaliação Psicológica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|mantris9009|Avaliação Psicotécnica|Avaliação Psicotécnica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|migra6|Avaliação Psiquiatrica|Avaliação Médica - Psiquiátrica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|
+|1831|Avaliação Urológica|Avaliação Médica - Urologica||CONSULTA|CONSULTA|||10101012|00010014|10101012|UPDATE|Duplicidade Exame mantris8592
+|mantris398|Avaliação Vocal Clinica|Avaliação Médica - Vocal||CONSULTA|CONSULTA||||||UPDATE|
+|mantris8947|Biometria ultra-sônica - monocular|Biometria Ultrassônica||IMAGEM|USG|||41501012|50010190|41501012|UPDATE|
+|41301420|Biomicroscopia de fundo|Biomicroscopia de fundo||EXAME|EXAME||||||UPDATE|
+|mantris8605|Broncoscopia com biópsia transbrônquica|Broncoscopia com biópsia transbrônquica||EXAME|EXAME|||40201031||40201031|UPDATE|
+|690|Broncoscopia ou Broncofibroscopia - Para diagnostico colhieta de material|Broncoscopia com ou sem aspirado ou lavado brônquico bilateral||EXAME|EXAME|||40201058||40201058|UPDATE|
+|migra9|CAMPIMETRIA COMPUTADORIZADA|Campimetria Computadorizada||EXAME|EXAME|||40103137||40103137|UPDATE|
+|mantris8610|Cintilografia óssea (corpo inteiro)|Cintilografia Óssea (corpo inteiro)||EXAME|EXAME|||40706010|31060021|40706010|UPDATE|
+|mantris8733|Cintilografia renal dinâmica|Renograma ||EXAME|EXAME|||40704017||40704017|UPDATE|
+|mantris8615|Clister ou enema opaco (duplo contraste)|Clister Opaco (Duplo Contraste)||EXAME|EXAME|||40806081|32060106|40806081|UPDATE|
+|mantris8622|Colonoscopia (inclui a retossigmoidoscopia)|Colonoscopia||EXAME|EXAME|||40201082||40201082|UPDATE|
+|migra41|Colposcopia|Colposcopia||EXAME|EXAME|||41301102|45010021|41301102|UPDATE|
+|546456|Consulta Assistencial|Consulta Assistencial||CONSULTA|CONSULTA|||10101012||10101012|UPDATE|
+|mantris8642|Consulta de avaliação de enquadramento|Consulta de avaliação de enquadramento||CONSULTA|CONSULTA|||10101012||10101012|UPDATE|
+|32.08.008-5|Densitometria óssea|Densitometria Óssea||EXAME|EXAME|||40808149|32080085|40808149|UPDATE|
+|mantris8912|Dosagem de Alcool Etilico (sangue)|Dosagem Médica - De Alcool Etilico||LABORATORIAL|SANGUE||||||UPDATE|
+|mantris8994|Dosagem de ALDRIN|Dosagem de ALDRIN||LABORATORIAL|SORO||||||UPDATE|
+|mantris8997|Dosagem de ALFA BHC|Dosagem de ALFA BHC||LABORATORIAL|SORO||||||UPDATE|
+|mantris8996|Dosagem de DIELDRIN|Dosagem de DIELDRIN||LABORATORIAL|SORO||||||UPDATE|
+|mantris8995|Dosagem de ENDRIN|Dosagem de ENDRIN||LABORATORIAL|SORO||||||UPDATE|
+|3112016|Dosagem Serica Niquel|Dosagem Sérica Níquel||LABORATORIAL|SANGUE||||||UPDATE|
+|mantris29|ECG convencional de até 12 derivações|ECG/Eletrocardiograma||EXAME|EXAME|||40101010|20010010|40101010|UPDATE|
+|20.01.010-9|Ecocardiograma Bidimensional|Ecocardiograma Bidimensional||EXAME|EXAME|||40901106|20010109|40901106|UPDATE|
+|33010234|ECOCARDIOGRAMA COM DOPPLER COLORIDO|Ecocardiograma com Doppler Colorido||EXAME|EXAME||||||UPDATE|
+|668|Ecocardiograma Unidimensional|Ecocardiograma Médica - Unidimensional||EXAME|EXAME|||40901106|20010095|40901106|UPDATE|
+|mantris8634|Ecodopplercardiograma com contraste intracavitário|Ecodopplercardiograma com contraste intracavitário||EXAME|EXAME|||40901050||40901050|UPDATE|
+|mantris8775|Ecodopplercardiograma com estresse farmacológico|Ecodoppler de Esforço ou Stress Farmacológico||EXAME|EXAME|||40901076|20010150|40901076|UPDATE|
+|mantris8776|Ecodopplercardiograma transesofágico (inclui transtorácico)|Ecodoppler Transesofágico||EXAME|EXAME|||40901092||40901092|UPDATE|
+|mantris403|EEG de rotina|Eletroencefalograma em Vigilia||EXAME|EXAME|||40103170||40103170|UPDATE|
+|mantris8797|EEGQ quantitativo (mapeamento cerebral)|Mapeamento Cerebral com Potencial Evocado||EXAME|EXAME|||40103196||40103196|UPDATE|
+|mantris8636|Eletrococleografia (Ecochg)|Eletrococleografia||EXAME|EXAME|||40103269||40103269|UPDATE|
+|migra49|Eletroneuromiografia|Eletroneuromiografia por segmento|Sim|EXAME|EXAME|||40103315|22010130|40103315|UPDATE|
+|mantris8639|Eletroneuromiografia de MMII|Eletroneuromiografia de MMII|SIM|EXAME|EXAME|||40103323|22010130|40103323|UPDATE|
+|mantris8640|Eletroneuromiografia de MMSS|Eletroneuromiografia de MMSS|SIM|EXAME|EXAME|||40103331|22010130|40103331|UPDATE|
+|mantris8777|Eletro-retinografia - monocular|Eletroretinografia||EXAME|EXAME|||40103250|50010069|40103250|UPDATE|
+|mantris9999|EMISSÕES OTOACÚSTICA |Emissões Otoacústica||EXAME|EXAME|||40103463|51010399|40103463|UPDATE|
+|23.01.003-7|Endoscopia Digestiva Alta|Endoscopia Digestiva Alta (Esofago Gastro-Duodenoscopia)||EXAME|EXAME|||40201120||40201120|UPDATE|
+|mantris8643|Escanometria|Escanometria||EXAME|EXAME|||40804119|32040121|40804119|UPDATE|
+|mantris9021|Espectrografia vocal|Espectrografia Vocal (Otoneurológico Completo)||EXAME|EXAME|||40103404||40103404|UPDATE|
+|CLINICO|Exame Clinico|Exame Clínico||CONSULTA|CONSULTA||||||UPDATE|
+|0|Exame Clinico com (Teste de Romberg)|Exame Clínico com (Teste de Romberg)||CONSULTA|CONSULTA||||||UPDATE|Inativar: teste clínico
+|mantris8953|Exame de Visão Noturna|Exame de Visão Noturna||EXAME|EXAME|||41401271||41401271|UPDATE|
+|1596|Exame micológico - cultura e identificação de colônia|Cultura Sub Ungueal||EXAME|EXAME|||41301218|42010047|41301218|UPDATE|
+|mantris8554|Exame micológico de unha|Exame micológico de unha||AMOSTRA|AMOSTRA|||41301226|42010039|41301226|UPDATE|
+|50010255|FUNDOSCOPIA DIRETA (OFTALMOSCOPIA)|Fundoscopia Médica - Direta||EXAME|EXAME|||41301250|50010093|41301250|UPDATE|
+|mantris4214|Grupo sanguíneo ABO e RH|Tipagem Sanguínea Abo e Rh||LABORATORIAL|SANGUE|||40403173|27040151|40403173|UPDATE|
+|migra50|Holter 24hs - sistema holter - 24hs 2 canais|Holter 24 horas - 2 ou mais canais - analógico||EXAME|EXAME||||20010052||UPDATE|
+|mantris9997|IMITANCIOMETRIA|Imitanciometria||EXAME|EXAME|||40103420||40103420|UPDATE|
+|mantris8686|Impedanciometria|Timpanometria||EXAME|EXAME|||40103439|51010127|40103439|UPDATE|
+|370|Imuno Fluorescência para Tripanossoma Cruzi|Imuno Fluorescência para Tripanossoma Cruzi||LABORATORIAL|SORO|||40403459|27040402|40403459|UPDATE|
+|mantris8969|Inspeção Bucal|Inspeção Bucal||EXAME|EXAME||||||UPDATE|
+|mantris8689|Laringoscopia/traqueoscopia para diagnóstico e biópsia (tubo rígido)|Laringoscopia Direta - Para diagnostico, colheita de mateiral e / ou Biopsia||EXAME|EXAME|||40202429||40202429|UPDATE|
+|mantris8697|Mamografia convencional bilateral|Mamografia|SIM|IMAGEM|RX|||40808106||40808106|UPDATE|
+|mantris8795|MAPA (Monitoracao Ambulatorial de Pressao Arterial)|MAPA (Monitoracao Ambulatorial de Pressao Arterial)||EXAME|EXAME|||20102038||20102038|UPDATE|
+|mantris8781|Nasofibrolaringoscopia para dignóstico e/ou biópsia|Nasofibrolaringoscopia para dignóstico e/ou biópsia||EXAME|EXAME|||40202488||40202488|UPDATE|
+|mantris8706|Oftalmodinamometria - monocular|Oftalmodinamometria||EXAME|EXAME|||41301277|50010107|41301277|UPDATE|
+|mantris8725|Prova de compatibilidade pré-transfusional completa|Prova de compatibilidade pré-transfusional completa||LABORATORIAL|SANGUE|||40403408|27040240|40403408|UPDATE|
+|mantris341|Prova de função pulmonar completa (ou espirometria)|Espirometria||EXAME|EXAME|||40105075|29020212|40105075|UPDATE|
+|10000101026|Prova de função pulmonar completa (ou espirometria) com Broncodilatador|Espirometria com Broncodilatador||EXAME|EXAME|||40105075|29020204|40105075|UPDATE|
+|mantris4007|Punção biópsia ganglionar|Adenograma (nao Inclui Hemograma)||AMOSTRA|AMOSTRA|||30914124||30914124|UPDATE|
+|22222222|Raio X Abdome|RX Abdome||IMAGEM|RX||||32080018||UPDATE|
+|272|Raio X Pé|RX Pé|SIM|IMAGEM|RX|||40804097|32040105|40804097|UPDATE|
+|20202021|Raio X SACRO-COCCIX |RX SACRO-COCCIX ||IMAGEM|RX|||40802078|32020090|40802078|UPDATE|
+|mantris8892|Ressonância Magnética Abdome superior|Ressonância Magnética Abdome superior||IMAGEM|RM|||41101170|36010090|41101170|UPDATE|
+|mantris8804|Ressonância Magnética Articular (por articulação)|Ressonância Magnética Cotovelo e Punho||IMAGEM|RM|||41101316||41101316|UPDATE|EXAME DESMEMBRADO
+|mantris8805|Ressonância Magnética Artro-RM (incluir a punção articular)-por articulação|Ressonância Magnética Artro-RM (incluir a punção articular)-por articulação||IMAGEM|RM|||41102010||41102010|UPDATE|
+|mantris8801|Ressonância Magnética Coluna cervical ou dorsal ou lombar|Ressonância Magnética da Coluna Cervical||IMAGEM|RM|||41101227||41101227|UPDATE|
+|mantris8890|Ressonância Magnética Coração - morfológico e funcional|Ressonância Magnética De Coracao/Aorta C/Cine||IMAGEM|RM|||41101138|36010081|41101138|UPDATE|
+|mantris8819|Ressonância Magnética Coxa (unilateral)|Ressonância Magnética de Coxo-Femural(Bilat.)|SIM|IMAGEM|RM|||41101286||41101286|UPDATE|
+|mantris8735|Ressonância Magnética Crânio (encéfalo)|Ressonância Magnética de Crânio||IMAGEM|RM|||41101014|36010014|41101014|UPDATE|
+|migra51|Ressonância Magnética de Bacia ou pelvis|Ressonância Magnética de Bacia ou Pelvis||IMAGEM|RM|||41101189|36010103|41101189|UPDATE|Duplicidade exame 1550
+|mantris9995|Ressonância Magnética de Joelho|Ressonância Magnética de Joelho|SIM|IMAGEM|RM||||||UPDATE|
+|migra52|Ressonancia Magnética de punho|Ressonância Magnética de Punho|SIM|IMAGEM|RM|||41101316|36010138|41101316|UPDATE|
+|mantris8736|Ressonância Magnética Pé (antepé) - não inclui tornozelo|Ressonância Magnética Pé (antepé) - não inclui tornozelo|SIM|IMAGEM|RM|||41101308||41101308|UPDATE|
+|1550|Ressonância Magnética Pelve (não inclui articulações coxofemorais)|Ressonância Magnética Pelve (não inclui articulações coxofemorais)||IMAGEM|RM|||41101189|36010103|41101189|UPDATE|
+|mantris8884|Ressonância Magnética Pescoço|Ressonância Magnética De Pescoço||IMAGEM|RM|||41101111|36010057|41101111|UPDATE|
+|1542|Ressonância Magnética Plexo braquial (desfiladeiro torácico) ou lombossacral|Ressonância Magnética Plexo Braquial (desfiladeiro torácico) ou Lombossacral||IMAGEM|RM|||41101243||41101243|UPDATE|
+|mantris8888|Ressonância Magnética Tórax (mediastino, pulmão, parede torácica)|Ressonância Magnética de Tórax||IMAGEM|RM|||41101120|36010073|41101120|UPDATE|
+|1783|Ressonância Nuclear Magnética De Coluna Lombar|Ressonância Magnética de Coluna Lombar||IMAGEM|RM|||41101227||41101227|UPDATE|
+|1785|Ressonância Nuclear Magnética De Cotovelo|Ressonância Magnética de Cotovelo|SIM|IMAGEM|RM|||41101316|36010138|41101316|UPDATE|
+|1789|Ressonância Nuclear Magnética De Ombro|Ressonância Magnética de Ombro|SIM|IMAGEM|RM|||41101316|36010120|41101316|UPDATE|
+|1793|Ressonância Nuclear Magnética De Tornolezo|Ressonância Magnética de Tornolezo|SIM|IMAGEM|RM|||41101316|36010162|41101316|UPDATE|
+|mantris8966|Retinografia (só honorário) monocular|Retinografia||EXAME|EXAME|||41301315|50010123|41301315|UPDATE|
+|mantris8581|Rx Articulação coxofemoral (quadril)|RX Articulação Coxo-Femural|SIM|IMAGEM|RX|||40804038|32040040|40804038|UPDATE|
+|mantris9002|Rx Articulação escapuloumeral (ombro)|RX Ombro|SIM|IMAGEM|RX|||40803074|32030070|40803074|UPDATE|
+|mantris8849|Rx Articulação esternoclavicular|Rx Articulação Esterno-Clavicular (3 Chapas)|SIM|IMAGEM|RX|||40803023|32030029|40803023|UPDATE|
+|mantris8818|Rx Articulação tibiotársica (tornozelo)|RX Articulacao Tibio-Társica (2 Incidências)|SIM|IMAGEM|RX|||40804089|32040091|40804089|UPDATE|
+|mantris9019|Rx Bacia|Rx Bacia||IMAGEM|RX|||40804011|32040016|40804011|UPDATE|
+|mantris8604|Rx Braço|Rx Braço|SIM|IMAGEM|RX|||40803082|32030088|40803082|UPDATE|
+|mantris8817|Rx Calcâneo|Rx Calcâneo (2 Incidencias)|SIM|IMAGEM|RX|||40804100|32040113|40804100|UPDATE|
+|mantris3304|Rx Coluna dorsal (torácica)|Rx Coluna Dorsal||IMAGEM|RX|||40802035|32020040|40802035|UPDATE|
+|32020066|Rx Coluna Dorso Lombar|Rx Coluna Dorso Lombar||IMAGEM|RX||||||UPDATE|
+|mantris8814|Rx Cotovelo|Rx Cotovelo|SIM|IMAGEM|RX|||40803090|32030096|40803090|UPDATE|
+|mantris8623|Rx de coluna total|RX de Coluna Total||IMAGEM|RX|||40802108|32020120|40802108|UPDATE|
+|migra53|Rx de coluna vertebral (LS + AP+P)|Rx de Coluna Vertebral||IMAGEM|RX||||||UPDATE|
+|32010010|Rx de Crânio|Rx de Crânio||IMAGEM|RX|||40801012|32010010|40801012|UPDATE|
+|mantris8699|Rx Mão ou quirodáctilo|Rx de Mão|SIM|IMAGEM|RX|||40803120|32030126|40803120|UPDATE|
+|mantris8731|Rx Punho|Rx de Punho: A.P. - Lat. - Obliquas|SIM|IMAGEM|RX|||40803112|32030118|40803112|UPDATE|
+|mantris8742|Rx Seios da face|Rx Seios da Face: F.N. - M.N. - Lat.||IMAGEM|RX|||40801063||40801063|UPDATE|
+|mantris8955|S.Chagas IFI por unidade de sangue total|Trypanossoma IgG||LABORATORIAL|SANGUE|||40403653|27040070|40403653|UPDATE|
+|mantris4462|S.Hepatite B (HBsAg) RIE ou EIE por unidade de sangue total|HBsAg||LABORATORIAL|SANGUE|||40403670|27040038|40403670|UPDATE|
+|migra60|Sorologia para Hepatite B|Sorologia para Hepatite B||LABORATORIAL|SANGUE|||40403670|28060083|40403670|UPDATE|
+|migra61|Sorologia para Hepatite C|Sorologia para Hepatite C||LABORATORIAL|SANGUE|||40403491|27040429|40403491|UPDATE|
+|mantris8988|Teste de absorção de vitamina B12 com cobalto - 57 (teste de Schilling)|Absorçãoo Vitamina B12 (Teste Schilling)||LABORATORIAL|SANGUE|||40705064|31050018|40705064|UPDATE|
+|mantris4464|Teste de Daltonismo - Ishihara|Teste de Daltonismo||EXAME|EXAME|||41401271||41401271|UPDATE|
+|mantris8703|Teste de Mitsuda|Mitsuda (Hanseniase, ID de ||LABORATORIAL|SANGUE|||41401255||41401255|UPDATE|
+|mantris454|Teste Ergométrico de Esforço|Teste Ergométrico de Esforço||EXAME|EXAME|||40101045|20010028|40101045|UPDATE|
+|63169|Teste Palográfico|Teste Palográfico||EXAME|EXAME||||||UPDATE|
+|mantris8751|Tomografia computadorizada Coluna - segmento adicional|Tomografia computadorizada Coluna - segmento adicional||IMAGEM|TC|||41001133|34010041|41001133|UPDATE|
+|mantris3096|Tomografia computadorizada Coluna (até 3 segmentos)|Tomografia Computadorizada de Coluna Lombo-Sacra||IMAGEM|TC|||41001125|34010033|41001125|UPDATE|
+|mantris8752|Tomografia computadorizada de Crânio ou sela túrsica ou órbitas|Tomografia Computadorizada de Crânio ou Órbitas ou Sela Túrsica||IMAGEM|TC|||41001010|34010068|41001010|UPDATE|
+|mantris8921|Tomografia computadorizada de Face ou seios da face|Tomografia Computadorizada Face, Seios da Face||IMAGEM|TC|||41001036|34010084|41001036|UPDATE|
+|mantris8749|Tomografia computadorizada Pelve ou bacia|Tomografia Computadorizada da Pelve ou Bacia||IMAGEM|TC|||41001117|34010106|41001117|UPDATE|
+|mantris8755|Tomografia computadorizada Tórax|Tomografia Computadorizada do Tórax||IMAGEM|TC|||41001079|34010130|41001079|UPDATE|
+|mantris9041|Tomografia de Coerência Óptica|Tomografia de Coerência Óptica||IMAGEM|TC|||41501144||41501144|UPDATE|
+|34010092|Tomografia do Abdome Total|Tomografia do Abdome Total||IMAGEM|TC||||||UPDATE|
+|mantris8756|Tonometria - binocular|Tonometria de Aplanação||EXAME|EXAME|||41301323|50010158|41301323|UPDATE|
+|1234|Triagem Vocal|Triagem Médica - Vocal||EXAME|EXAME||||||UPDATE|
+|mantris8764|Urografia venosa com bexiga pré e pós-miccional|Urografia venosa com bexiga pré e pós-miccional||IMAGEM|USG|||40807010|32070012|40807010|UPDATE|
+|migra67|US de Abdomen Superior|USG de Abdomen Superior||IMAGEM|USG|||40901130||40901130|UPDATE|Duplicidade exame 1631
+|migra66|US de antebraço|USG de Antebraço|SIM|IMAGEM|USG||||||UPDATE|
+|18102017|US de Mao|USG de Mão|SIM|IMAGEM|USG||||||UPDATE|
+|migra65|US de ombro|USG de Ombro|SIM|IMAGEM|USG||||||UPDATE|
+|migra69|US de  mamas|USG de Mamas|SIM|IMAGEM|USG|||40901114||40901114|UPDATE|
+|19102017|US de Punho|USG de Punho|SIM|IMAGEM|USG||||||UPDATE|
+|migra70|US do Ap Urinário (Rins e Bexiga)|USG do Aparelho Urinário (Rins e Bexiga)||IMAGEM|USG|||40901157|33010030|40901157|UPDATE|
+|migra71|US Obstétrica|USG Obstétrica||IMAGEM|USG|||40901238|33010110|40901238|UPDATE|
+|migra73|US Pelvica Via Abdominal|USG Pélvica Via Abdominal||IMAGEM|USG||||||UPDATE|
+|mantris8564|USG Abdome inferior feminino (bexiga, útero, ovário e anexos)|USG Pélvica (Ginecológica)||IMAGEM|USG|||40901181||40901181|UPDATE|
+|mantris8561|USG Abdome inferior masculino (bexiga, próstata e vesículas seminais)|USG Próstata via abdominal||IMAGEM|USG|||40901173||40901173|UPDATE|
+|1631|USG Abdome superior (fígado, vias biliares, vesícula, pâncreas, baço)|USG Abdome superior (fígado, vias biliares, vesícula, pâncreas, baço)||IMAGEM|USG|||40901130|33010013|40901130|UPDATE|
+|mantris8990|USG Abdome total (inclui abdome inferior)|USG Abdome Total||IMAGEM|USG|||40901122|33010021|40901122|UPDATE|
+|mantris8866|USG Doppler colorido venoso de membro inferior - unilateral|USG Doppler Venoso de Membro Inferior - unilateral||IMAGEM|USG|||40901483||40901483|UPDATE|
+|mantris8708|USG Órgãos superficiais (tireóide ou escroto ou pênis ou crânio)|USG Órgãos superficiais (tireóide ou escroto ou pênis ou crânio)||IMAGEM|USG|||40901203|33010129|40901203|UPDATE|
+|mantris8562|USG Próstata transretal (inclui abdome inferior masculino)|USG Próstata via trans-retal||IMAGEM|USG|||40901335|33010161|40901335|UPDATE|
+|40901386|USG TIREOIDE COM DOPPLER|USG Tireóide com Doppler||IMAGEM|USG||||||UPDATE|
+|migra72|USG TRANSVAGINAL|USG Transvaginal||IMAGEM|USG|||40901300|33010145|40901300|UPDATE|
+|492|Vacina Antitetânica|Vacina Antitetânica||VACINA|VACINA||||||UPDATE|
+|mantris429|Vídeo-faringo-laringoscopia com endoscópio flexível|Videolaringoscopia||EXAME|EXAME|||40201252||40201252|UPDATE|
+|mantris4459|Avaliação da função muscular (dinamometria/módulos de cargas)|Avaliação da função muscular (dinamometria/módulos de cargas)||CONSULTA|CONSULTA||||||UPDATE|
+|1621|PESQUISA DE MUTAÇÃO DO GENE DA HEMOCROTOSE|PESQUISA DE MUTAÇÃO DO GENE DA HEMOCROTOSE||EXAME|EXAME||||||UPDATE|
+|20104065|Remoção de rolha de cerumen|Remoção de rolha de cerumen||EXAME|EXAME||||||UPDATE|
+|mantris8999|Toxafeno|Toxafeno||EXAME|EXAME||||||UPDATE|
+|63170|Exame de Zulliger|Exame de Zulliger||EXAME|EXAME||||||UPDATE|Duplicidade exame 63169
