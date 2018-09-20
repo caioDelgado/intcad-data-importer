@@ -21,10 +21,10 @@ class SocService {
     this.$socSoapService = socSoapService
   }
 
-  async updateToClients (exam) {
+  async updateToClients (exam, retry = 100) {
     return new Promise((resolve, reject) => {
       const q = queue()
-      q.concurrency = 15
+      q.concurrency = 1
 
       const dadosExame = {
         nome: exam.name
@@ -70,6 +70,11 @@ class SocService {
                 fs.appendFile(`${errorPath}/soc-exame-nao-encontrado.txt`, MESSAGE, 'utf8', () => {})
 
                 return
+              }
+
+              if (retry > 0) {
+                fs.appendFile(`${errorPath}/soc-exame-retry.txt`, `retry: ${retry} - ${MESSAGE}`, 'utf8', () => {})
+                return this.updateToClients(exam, retry - 1)
               }
 
               fs.appendFile(`${errorPath}/soc-errors.txt`, MESSAGE, 'utf8', () => {})

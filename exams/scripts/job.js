@@ -31,15 +31,15 @@ const socSoapService = new SocSoapService(config.soc)
 const socExamService = new SocExamService(config.soc, socSoapService)
 
 const importExams = async (exam) => {
-  const importedExam = await httpClient
-    .post('/exams', exam)
-    .then(response => response.data)
-    .catch(err => {
-      const error = err.response ? JSON.stringify(err.response.data) : err
-      const errorMessage = `cannot insert intcad exam ${JSON.stringify(exam)}, error: ${error} \n`
+  // const importedExam = await httpClient
+  //   .post('/exams', exam)
+  //   .then(response => response.data)
+  //   .catch(err => {
+  //     const error = err.response ? JSON.stringify(err.response.data) : err
+  //     const errorMessage = `cannot insert intcad exam ${JSON.stringify(exam)}, error: ${error} \n`
 
-      throw new Error(errorMessage)
-    })
+  //     throw new Error(errorMessage)
+  //   })
 
   if (!exam.integrations.soc) {
     return
@@ -48,7 +48,7 @@ const importExams = async (exam) => {
   // Integração SOC desativada
   await socExamService.updateToClients(exam)
 
-  return importedExam
+  // return importedExam
 }
 
 const factory = (exam) => async () => {
